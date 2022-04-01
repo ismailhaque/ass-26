@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "Authname": "Alo",
+      "Authphoto": "https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "Postcontent": "Laboriosam dolore voluptas incidunt quod sequi praesentium iure necessitatibus vero natus obcaecati beatae, architecto vel, ipsam voluptatem expedita perferendis suscipit aut corporis non reiciendis blanditiis inventore rerum sapiente! Ut qui veniam, enim fugit recusandae autem error reiciendis quibusdam.",
+      "Postphoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRg1fHV43GNFu0Ky4HSrBSlQBPdSGVSEfjuA&usqp=CAU"
+    }
+  ]
+}
